@@ -73,7 +73,13 @@ Then open: `http://localhost:8080`
 npx serve .
 ```
 
-## Deploy to Cloudflare Pages (Wrangler)
+## Current Netlify deployment
+
+The primary site is https://aws-sap.m1ngshum.com on Netlify project `aws-sap-mock`, with team login required for production and all previews. Shared-password protection is disabled. See [AGENTS.md](AGENTS.md) before publishing.
+
+The Cloudflare Pages configuration and push workflow below are legacy paths still present in this repository; Netlify protection does not apply to Pages. Their live deployment status has not been checked here.
+
+## Legacy Cloudflare Pages deployment (Wrangler)
 
 Prerequisites:
 
