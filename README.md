@@ -141,3 +141,7 @@ Configure these secrets in your repository settings (`Settings > Secrets and var
 
 - This repo may contain image/hotspot questions that require additional dataset curation.
 - Never commit tokens or secrets to the repository (`.env`, API keys, etc.).
+
+## Contact
+
+For general enquiries, contact [hello@m1ngshum.com](mailto:hello@m1ngshum.com).
